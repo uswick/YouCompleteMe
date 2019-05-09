@@ -3,7 +3,7 @@
 	url = git@github.com:ross/requests-futures
 [submodule "third_party/ycmd"]
 	path = third_party/ycmd
-	url = git@github.com:Valloric/ycmd
+	url = git@github.com:uswick/ycmd
 [submodule "third_party/requests_deps/idna"]
 	path = third_party/requests_deps/idna
 	url = git@github.com:kjd/idna
